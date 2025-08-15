@@ -24,7 +24,7 @@ My academic journey began with physics. While physics remains a passion, I disco
 - 🌱 I’m currently focusing on **Java Full Stack Development**  
 - 🤝 I’m open to collaborations in **machine learning, backend systems, and web applications**  
 - 💡 I enjoy bridging my background in physics with computer science to solve challenging problems
-- 👨‍💻 All of my projects are available at [My Repositories](https://github.com/laxmanspaudel?tab=repositories)  
+- 👨‍💻 All of my projects are available at [My Repositories](https://github.com/lspaudel?tab=repositories)  
 
 ---
 
