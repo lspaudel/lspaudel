@@ -21,14 +21,14 @@ My academic journey began with physics. While physics remains a passion, I disco
 ![PyTorch](https://img.shields.io/badge/PyTorch-red?logo=pytorch&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-blue?logo=scikitlearn&logoColor=white)
 
-- 🌱 I’m currently focusing on **Java Full Stack Development**  
-- 🤝 I’m open to collaborations in **machine learning, backend systems, and web applications**  
-- 💡 I enjoy bridging my background in physics with computer science to solve challenging problems
-- 👨‍💻 All of my projects are available at [My Repositories](https://github.com/lspaudel?tab=repositories)  
+- I’m currently focusing on **Java Full Stack Development**  
+- I’m open to collaborations in **machine learning, backend systems, and web applications**  
+- I enjoy bridging my background in physics with computer science to solve challenging problems
+- All of my projects are available at [My Repositories](https://github.com/lspaudel?tab=repositories)  
 
 ---
 
-## 🚀 Connect with me:
+## Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/#)  
 [![Email](https://img.shields.io/badge/Gmail-red?logo=gmail&logoColor=white)](mailto:laxmansharmapaudel@gmail.com)
 
